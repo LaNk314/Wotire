@@ -3,7 +3,9 @@ It stands for WOrking TIme REcords, mobile application that I wrote for myself a
 
 
 
-https://github.com/LaNk314/Wotire/assets/85101748/08d60c26-befa-488c-9f86-6304993f6e5f
+https://github.com/LaNk314/Wotire/assets/85101748/c5fb454e-4ad4-4303-999a-1fcd1ed9793d
+
+
 
 
 
